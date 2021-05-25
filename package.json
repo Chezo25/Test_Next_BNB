@@ -1,0 +1,21 @@
+{
+  "name": "test-bnb-v1",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "eslint": "7.27.0",
+    "kite": "0.0.1",
+    "next": "latest",
+    "prettier": "2.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
